@@ -2,7 +2,7 @@
 # check if java installed or not on the mechine
 java -version
 
-# if it is not installed, than proceed with below
+# if java is not installed, than proceed with below commands to install 'openjdk-21-jre'
 
 sudo apt update
 sudo apt install fontconfig openjdk-21-jre
